@@ -1,16 +1,14 @@
 # 👋 Hi, I'm Dibakar Goswami
 
-I am a passionate and skilled Front End Developer, Content Writer, and Web Designer. I bring a unique blend of technical expertise and creative flair to every project I undertake.
-
+I am a BCA graduate  with a focus on automation testing and hands-on project experience. Proficient in test automation tools and frameworks. Knowledgeable in web development but prioritizing a career in automation testing. Committed to continuous learning and professional growth in this field.
 ## 🛠️ Skills and Tools
 
 ### Design and Development
 - **Figma**
 - **Canva**
-- **Adobe Illustrator**
-- **Photoshop**
-
 ### Web Technologies
+- **SELENIUM**
+- **BS5**
 - **HTML5**
 - **CSS3**
 - **JavaScript**
@@ -25,8 +23,10 @@ I am a passionate and skilled Front End Developer, Content Writer, and Web Desig
 ### Programming Languages
 - **Python**
 - **Java**
+- **JavaScript**
 
 ### Version Control and Tools
+- **pycharm**
 - **Git**
 - **VS Code**
 - **Postman**
@@ -40,10 +40,10 @@ I am a passionate and skilled Front End Developer, Content Writer, and Web Desig
 
 ## 💼 Professional Experience
 
-With a diverse professional background, I specialize in creating visually appealing, user-friendly, and high-performance web applications. My roles as a Front End Developer, Content Writer, and Web Designer allow me to bridge the gap between functionality and aesthetics, ensuring a seamless user experience.
+With a diverse professional background, Automation is a main priority in my work, enabling efficient and scalable solutions that enhance productivity and consistency across projects. Also i specialize in creating visually appealing, user-friendly, and high-performance web applications.
 
 ## 🚀 Professional Tools
-
+- **Pycharm:** For efficient coding and debugging 
 - **VS Code:** For efficient coding and debugging
 - **Postman:** For API testing and development
 - **Linux:** For robust and secure system operations
